@@ -1,5 +1,6 @@
 # What is an SVG?
 ### **SVG** stands for *Scalable Vector Graphic*
+---
 
 **What is the main difference between SVGs and the usual Bitmap Graphic?**
 Resolution and quality upon image scaling.
@@ -16,6 +17,6 @@ that make up the graphic are placed based on calculations relative to each other
 A regular bitmapped graphic, since it is made up of a number of pixels, will lose quality
 as it is scaled larger.
 *An SVG*, however, will **not** lose quality upon scaling. This is because it creates the
-graphic based on calculations, not pixels. 
-
+graphic based on calculations, *not* pixels. 
+---
 [Previous](README.md)    [Table of Contents](README.md)    [Next](Page2.md)
