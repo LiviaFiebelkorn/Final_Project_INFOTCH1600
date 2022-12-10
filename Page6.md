@@ -91,4 +91,4 @@ In this part, you will learn how to code the SVG!
  ---
   ## Congrats! You just made an SVG!
 ---
-|[ Previous ](Page6.md) |   [ Table of Contents ](README.md)  |
+|[ Previous ](Page5.md) |   [ Table of Contents ](README.md)  |
