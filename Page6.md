@@ -32,7 +32,7 @@ In this part, you will learn how to code the SVG!
 </body>
 </html>
  ```
-  *Now for the Petals!:*
+  *Now for the Petals!*
   ```
   <!DOCTYPE html>
 <html>
@@ -50,7 +50,7 @@ In this part, you will learn how to code the SVG!
 </body>
 </html>
   ```
-*And finally the center of the flower!:*
+*And finally the center of the flower!*
   ```
     <!DOCTYPE html>
 <html>
