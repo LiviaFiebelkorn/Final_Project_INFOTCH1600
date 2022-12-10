@@ -18,7 +18,7 @@ In this part, you will learn how to code the SVG!
 ```
 
 **Step 2:**  Get Creative! This is the fun part. There are many different methods to creating SVGs. Here is a [link](https://www.w3schools.com/graphics/svg_reference.asp) to those methods, I recommend looking into each of the methods for in depth learning! For this tutorial, I will show you how to make a simple flower.
- The order of which the objects appear is from top to bottom, meaning that objects on the bottom will cover object above them. *Lets start with the stem!:*
+ The order of which the objects appear is from top to bottom, meaning that objects on the bottom will cover object above them. *Lets start with the stem:*
 ```  
 <!DOCTYPE html>
 <html>
