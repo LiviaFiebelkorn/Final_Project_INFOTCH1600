@@ -7,10 +7,8 @@ For example, SVGs are commonly used for company logos.
 
 A company logo can be seen in many places, including but not limited to:
 -Company websites
--Merchandise
 -Online Advertisements
--Billboards
--Business Cards
+-Owned content (like a video)
 
 ---
 With all these possible applications, the logo would need to be adjusted to a scale that matches. It would be far less effiecient to create a new version of the logo graphic for every application to prevent bad quality.
