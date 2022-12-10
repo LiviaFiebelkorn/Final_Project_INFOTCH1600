@@ -1,5 +1,5 @@
 # How to Create Your Own SVG!
-##**Part 2:** Using HTML
+## **Part 2:** Using HTML
 In this part of the tutorial, we will go over the basic HTML set up!
 
 What is HTML? *HTML is the standard web page markup language.*
