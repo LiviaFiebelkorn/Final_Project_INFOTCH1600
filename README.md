@@ -4,6 +4,8 @@ By *Livia Fiebelkorn*
 **In this tutorial**, you will learn what SVGS are, what they are used for, and most importantly how to make your own! For this tutorial, I will teach you how to make a simple flower in a text editor using HTML.
 This tutorial is intended for beginner IT students, or anyone who is interested in the IT field of knowledge! It is recommended that you have a basic understanding of [HTML](https://www.w3schools.com/html/default.asp). 
 ---
+![image](https://github.com/LiviaFiebelkorn/Final_Project_INFOTCH1600/blob/main/SVG%20SCREENSHOT.png)
+---
 ### Table of Contents:
 2. [What is an SVG?](Page2.md)
 3. [Applications of SVGs](Page3.md)
