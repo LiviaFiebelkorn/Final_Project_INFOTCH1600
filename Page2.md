@@ -19,4 +19,4 @@ as it is scaled larger.
 *An SVG*, however, will **not** lose quality upon scaling. This is because it creates the
 graphic based on calculations, *not* pixels. 
 ---
-[Previous](README.md)    [Table of Contents](README.md)    [Next](Page2.md)
+[Previous](README.md)    [Table of Contents](README.md)    [Next](Page3.md)
