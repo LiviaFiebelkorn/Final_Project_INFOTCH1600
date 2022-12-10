@@ -34,7 +34,7 @@ In this part, you will learn how to code the SVG!
  ```
   *Now for the Petals!*
   ```
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
   
@@ -71,7 +71,7 @@ In this part, you will learn how to code the SVG!
  **Step 3:** Close the SVG
   To close the SVG, we do the same statement as on the previous page.
   ```
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
   
