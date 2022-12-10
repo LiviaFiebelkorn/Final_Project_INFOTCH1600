@@ -90,5 +90,7 @@ In this part, you will learn how to code the SVG!
  ```
  ---
   ## Congrats! You just made an SVG!
+  
+ ![Image](https://github.com/LiviaFiebelkorn/Final_Project_INFOTCH1600/blob/main/SVG%20SCREENSHOT.png)
 ---
 |[ Previous ](Page5.md) |   [ Table of Contents ](README.md)  |
