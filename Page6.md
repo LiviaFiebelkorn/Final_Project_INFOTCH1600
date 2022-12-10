@@ -52,7 +52,7 @@ In this part, you will learn how to code the SVG!
   ```
 *And finally the center of the flower!*
   ```
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
   
