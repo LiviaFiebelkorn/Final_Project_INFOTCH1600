@@ -10,3 +10,4 @@ Any text editor will do, however my personal recommendation is [Visual Studio Co
 
 ### You are all set up! 
 ---
+|[ Previous ](Page3.md) |   [ Table of Contents ](README.md)  |  [ Next ](Page5.md)|
