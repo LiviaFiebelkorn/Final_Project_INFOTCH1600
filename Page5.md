@@ -43,7 +43,7 @@ It is important to close each part of the code when you are done with it. To do 
 </html>
   ```
 ---
-###You just set up basic HTML code!
+### You just set up basic HTML code!
 ---
-
+|[ Previous ](Page4.md) |   [ Table of Contents ](README.md)  |  [ Next ](Page6.md)|
   
